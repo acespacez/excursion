@@ -24,3 +24,10 @@ h2 {
   margin-top: 20px;
   margin-bottom: 5px;
 }
+p {
+  color: gray;
+  text-size: 21px;
+}
+.footer {
+  text-align: right;
+}
